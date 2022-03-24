@@ -1,0 +1,7 @@
+[
+    {"id":1, "name":"Marwa", "age":28, "job":"ingénieur"},
+    {"id":2, "name":"Meriem", "age":25 , "job":"enseignante"},
+    {"id":3, "name":"Ahmed", "age":5, "job":"Etudiant"},
+    {"id":4, "name":"Aline", "age":6, "job":"Etudiante"},
+    {"id":5, "name":"Maysam", "age":4, "job":"Etudiante"}
+  ]

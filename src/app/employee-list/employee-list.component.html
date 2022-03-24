@@ -1,1 +1,9 @@
-<p>employee-list works!</p>
+<p style="text-align:left" class="mx-4">Employees-list</p>
+<div class="container">
+    <ol class="list-group list-group-numbered" *ngFor="let employee of employees">
+        <li class="list-group-item">{{employee.name}}</li>
+        <li class="list-group-item">{{employee.age}} ans</li>
+        <li class="list-group-item">{{employee.job}}</li>
+       
+      </ol>
+</div>
